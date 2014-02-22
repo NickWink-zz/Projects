@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessingGame", "GuessingGame\GuessingGame.csproj", "{08A80A70-E040-4D22-A7F3-3F3A3A880F61}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "..\ModelingProject1\ModelingProject1.modelproj", "{D0D59B26-5604-41F5-9EC3-9457BF82DBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A80A70-E040-4D22-A7F3-3F3A3A880F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A80A70-E040-4D22-A7F3-3F3A3A880F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A80A70-E040-4D22-A7F3-3F3A3A880F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A80A70-E040-4D22-A7F3-3F3A3A880F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D59B26-5604-41F5-9EC3-9457BF82DBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D59B26-5604-41F5-9EC3-9457BF82DBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D59B26-5604-41F5-9EC3-9457BF82DBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D59B26-5604-41F5-9EC3-9457BF82DBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿.container {
+    width: 80%;
+    max-width: 700px;
+    padding-top: 150px;
+    padding-bottom:150px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+body {
+    background-color:gray;
+}
+
+.btn {
+    padding-left:15px;
+}

@@ -1,0 +1,65 @@
+/* CSS file */
+
+/* Jose Saldana JOSJB29311 Class # 11901 */
+
+/* container to center page */
+.container {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+/* adjusts all elements in the body to coordinate*/
+body {
+	background-color: #FFFFFF;
+	color: #666666;
+	font-family: Arial;
+}
+
+
+/* changes the h1 header to specifications */
+
+h1 {
+	background-color: #000033;
+	color: #FFFFFF;
+	line-height: 200%;
+	font-family: Georgia;
+	
+}
+
+.address {
+	list-style-type: none;
+}
+/* navigation id for background color */
+
+#nav {
+	background-color: #90C7E3;
+	font-weight: bold;
+	font-family: Georgia;
+}
+
+/* changes the h2 header to specifications */
+
+h2 {
+	color: #90C7E3;
+}
+
+/* resort class to adjust the site name in the paragraph */
+.resort {
+	color: #000033;
+	font-size: 1.2em;
+	
+}
+
+/* adjusts footer to the center of the page and smaller text/with italics */
+
+#footer {
+	font-size: small;
+	font-size: .70em;
+	font-style: italic;
+	text-align: center;
+}
+
+img {     /* added 1/31/2013 */
+	border: 0;
+}
+
